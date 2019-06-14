@@ -1214,24 +1214,47 @@ footer span {
 }
 
 .modal-team .modal-dialog {
-    width: 1000px;
+    width: 100%;
+    max-width: 1000px;
     margin: 0;
+}
+.modal-team .modal-content {
+    border-radius: 20px;
+    background: #F2F0F1;
 }
 .modal-team .modal-body {
     padding: 0;
+    height: 600px;
 }
 .modal-team img {
     float: right;
     width: 50%;
     height: 600px;
     object-fit: cover;
-    margin-top: -20px;
     border-radius: 0 20px 20px 0;
 }
-.modal .close {
+.modal-team .close {
     color: #E61A4B;
     margin-left: 20px;
+    margin-top: 20px;
     float: left;
+}
+.modal-team .conteudo {
+    padding: 80px 20px 0;
+}
+.modal-team h2 {
+    font-size: 30px;
+    font-family: 'Circe Bold';
+    color: #E61A4B;
+    margin: 0 0 30px;
+}
+.modal-team p {
+    font-size: 16px;
+    color: #566067;
+    margin-bottom: 10px;
+}
+.modal-team p span {
+    font-family: 'Circe Bold';
 }
 
 /* --- MOBILE --- */
@@ -1679,6 +1702,27 @@ footer span {
     }
     .nossa-historia h4 {
         margin-bottom: 30px;
+    }
+    .modal-team .modal-dialog {
+        width: 95%;
+    }
+    .modal-team img {
+        display: none;
+    }
+    .modal-team .modal-body {
+        height: auto;
+    }
+    .modal-team .conteudo {
+        padding: 20px 15px 10px;
+    }
+    .modal-team .close {
+        float: none;
+        margin: 20px auto 0;
+        display: table;
+    }
+    .modal-team h2 {
+        text-align: center;
+        margin: 0 0 10px;
     }
 }
 @media (min-width: 768px) and (max-width: 991px) {

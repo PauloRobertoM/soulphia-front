@@ -62,10 +62,10 @@
         				<img src="assets/images/team.jpg" alt="">
         				<div class="conteudo">
         					<h2>Nome da pessoa</h2>
-        					<p><strong>What I do:</strong> Connect the dots across all areas of Educurious</p>
-							<p><strong>I’m #Soulphia because…</strong> It's never too late to learn</p>
-							<p><strong>Favorite part of school:</strong> Art and rocking the drill team after school</p>
-							<p><strong>Favorite book:</strong> Crime Thrillers a la John Grisham</p>
+        					<p><span>What I do:</span> Connect the dots across all areas of Educurious</p>
+							<p><span>I’m #Soulphia because…</span> It's never too late to learn</p>
+							<p><span>Favorite part of school:</span> Art and rocking the drill team after school</p>
+							<p><span>Favorite book:</span> Crime Thrillers a la John Grisham</p>
         				</div><!-- conteudo -->
         			</div>
         		</div>

@@ -23,15 +23,192 @@
 							</div><!-- conteudo -->
 						</a>
 					</div><!-- item -->
+					<div class="item">
+						<a data-toggle="modal" data-target="#myModalTeam">
+							<img src="assets/images/team.jpg" alt="">
+							<div class="conteudo">
+								<h4>Nome da pessoa</h4>
+								<p>Cargo da pessoa</p>
+							</div><!-- conteudo -->
+						</a>
+					</div><!-- item -->
+					<div class="item">
+						<a data-toggle="modal" data-target="#myModalTeam">
+							<img src="assets/images/team.jpg" alt="">
+							<div class="conteudo">
+								<h4>Nome da pessoa</h4>
+								<p>Cargo da pessoa</p>
+							</div><!-- conteudo -->
+						</a>
+					</div><!-- item -->
+					<div class="item">
+						<a data-toggle="modal" data-target="#myModalTeam">
+							<img src="assets/images/team.jpg" alt="">
+							<div class="conteudo">
+								<h4>Nome da pessoa</h4>
+								<p>Cargo da pessoa</p>
+							</div><!-- conteudo -->
+						</a>
+					</div><!-- item -->
+					<div class="item">
+						<a data-toggle="modal" data-target="#myModalTeam">
+							<img src="assets/images/team.jpg" alt="">
+							<div class="conteudo">
+								<h4>Nome da pessoa</h4>
+								<p>Cargo da pessoa</p>
+							</div><!-- conteudo -->
+						</a>
+					</div><!-- item -->
+					<div class="item">
+						<a data-toggle="modal" data-target="#myModalTeam">
+							<img src="assets/images/team.jpg" alt="">
+							<div class="conteudo">
+								<h4>Nome da pessoa</h4>
+								<p>Cargo da pessoa</p>
+							</div><!-- conteudo -->
+						</a>
+					</div><!-- item -->
+					<div class="item">
+						<a data-toggle="modal" data-target="#myModalTeam">
+							<img src="assets/images/team.jpg" alt="">
+							<div class="conteudo">
+								<h4>Nome da pessoa</h4>
+								<p>Cargo da pessoa</p>
+							</div><!-- conteudo -->
+						</a>
+					</div><!-- item -->
+					<div class="item">
+						<a data-toggle="modal" data-target="#myModalTeam">
+							<img src="assets/images/team.jpg" alt="">
+							<div class="conteudo">
+								<h4>Nome da pessoa</h4>
+								<p>Cargo da pessoa</p>
+							</div><!-- conteudo -->
+						</a>
+					</div><!-- item -->
+					<div class="item">
+						<a data-toggle="modal" data-target="#myModalTeam">
+							<img src="assets/images/team.jpg" alt="">
+							<div class="conteudo">
+								<h4>Nome da pessoa</h4>
+								<p>Cargo da pessoa</p>
+							</div><!-- conteudo -->
+						</a>
+					</div><!-- item -->
 				</div><!-- tab-pane -->
 				<div role="tabpanel" class="tab-pane" id="profile">
-					
+					<div class="item">
+						<a data-toggle="modal" data-target="#myModalTeam">
+							<img src="assets/images/team.jpg" alt="">
+							<div class="conteudo">
+								<h4>Nome da pessoa</h4>
+								<p>Cargo da pessoa</p>
+							</div><!-- conteudo -->
+						</a>
+					</div><!-- item -->
+					<div class="item">
+						<a data-toggle="modal" data-target="#myModalTeam">
+							<img src="assets/images/team.jpg" alt="">
+							<div class="conteudo">
+								<h4>Nome da pessoa</h4>
+								<p>Cargo da pessoa</p>
+							</div><!-- conteudo -->
+						</a>
+					</div><!-- item -->
+					<div class="item">
+						<a data-toggle="modal" data-target="#myModalTeam">
+							<img src="assets/images/team.jpg" alt="">
+							<div class="conteudo">
+								<h4>Nome da pessoa</h4>
+								<p>Cargo da pessoa</p>
+							</div><!-- conteudo -->
+						</a>
+					</div><!-- item -->
 				</div><!-- tab-pane -->
 				<div role="tabpanel" class="tab-pane" id="messages">
-					
+					<div class="item">
+						<a data-toggle="modal" data-target="#myModalTeam">
+							<img src="assets/images/team.jpg" alt="">
+							<div class="conteudo">
+								<h4>Nome da pessoa</h4>
+								<p>Cargo da pessoa</p>
+							</div><!-- conteudo -->
+						</a>
+					</div><!-- item -->
+					<div class="item">
+						<a data-toggle="modal" data-target="#myModalTeam">
+							<img src="assets/images/team.jpg" alt="">
+							<div class="conteudo">
+								<h4>Nome da pessoa</h4>
+								<p>Cargo da pessoa</p>
+							</div><!-- conteudo -->
+						</a>
+					</div><!-- item -->
+					<div class="item">
+						<a data-toggle="modal" data-target="#myModalTeam">
+							<img src="assets/images/team.jpg" alt="">
+							<div class="conteudo">
+								<h4>Nome da pessoa</h4>
+								<p>Cargo da pessoa</p>
+							</div><!-- conteudo -->
+						</a>
+					</div><!-- item -->
+					<div class="item">
+						<a data-toggle="modal" data-target="#myModalTeam">
+							<img src="assets/images/team.jpg" alt="">
+							<div class="conteudo">
+								<h4>Nome da pessoa</h4>
+								<p>Cargo da pessoa</p>
+							</div><!-- conteudo -->
+						</a>
+					</div><!-- item -->
+					<div class="item">
+						<a data-toggle="modal" data-target="#myModalTeam">
+							<img src="assets/images/team.jpg" alt="">
+							<div class="conteudo">
+								<h4>Nome da pessoa</h4>
+								<p>Cargo da pessoa</p>
+							</div><!-- conteudo -->
+						</a>
+					</div><!-- item -->
 				</div><!-- tab-pane -->
 				<div role="tabpanel" class="tab-pane" id="settings">
-					
+					<div class="item">
+						<a data-toggle="modal" data-target="#myModalTeam">
+							<img src="assets/images/team.jpg" alt="">
+							<div class="conteudo">
+								<h4>Nome da pessoa</h4>
+								<p>Cargo da pessoa</p>
+							</div><!-- conteudo -->
+						</a>
+					</div><!-- item -->
+					<div class="item">
+						<a data-toggle="modal" data-target="#myModalTeam">
+							<img src="assets/images/team.jpg" alt="">
+							<div class="conteudo">
+								<h4>Nome da pessoa</h4>
+								<p>Cargo da pessoa</p>
+							</div><!-- conteudo -->
+						</a>
+					</div><!-- item -->
+					<div class="item">
+						<a data-toggle="modal" data-target="#myModalTeam">
+							<img src="assets/images/team.jpg" alt="">
+							<div class="conteudo">
+								<h4>Nome da pessoa</h4>
+								<p>Cargo da pessoa</p>
+							</div><!-- conteudo -->
+						</a>
+					</div><!-- item -->
+					<div class="item">
+						<a data-toggle="modal" data-target="#myModalTeam">
+							<img src="assets/images/team.jpg" alt="">
+							<div class="conteudo">
+								<h4>Nome da pessoa</h4>
+								<p>Cargo da pessoa</p>
+							</div><!-- conteudo -->
+						</a>
+					</div><!-- item -->
 				</div><!-- tab-pane -->
 			</div><!-- tab-content -->
 		</div><!-- container -->
