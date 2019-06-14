@@ -37,8 +37,10 @@
                         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                             <ul class="nav navbar-nav">
                                 <li><a href="">Home</a></li>
-                                <li><a href="">Quem somos</a></li>
+                                <li><a href="">Nossa História</a></li>
                                 <li><a href="">Time</a></li>
+                                <li><a href="">Governo</a></li>
+                                <li><a href="">Empresas</a></li>
                                 <li><a href="https://student.soulphia.com/" target="_blank">área do aluno</a></li>
                                 <li class="cadastro"><a href="https://student.soulphia.com/cadastro" target="_blank">cadastre-se</a></li>
                             </ul><!-- .nav -->

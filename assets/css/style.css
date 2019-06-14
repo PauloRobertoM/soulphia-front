@@ -1063,6 +1063,10 @@ footer span {
     color: #566067;
     text-align: center;
 }
+.img-interna {
+    width: 80%;
+    margin: 0 auto 30px;
+}
 
 .destaque-interno {
     padding: 80px 0;
@@ -1074,19 +1078,160 @@ footer span {
     color: #fff;
     margin: 0;
 }
+.destaque-interno img {
+    margin: 30px auto 0;
+}
 
 .mapa-interno {
     padding: 80px 0;
 }
-.mapa-interno p {
+.mapa-interno h4 {
     font-size: 26px;
     font-family: 'Circe Light';
     color: #E61A4B;
     margin-bottom: 30px;
 }
+.mapa-interno p {
+    font-size: 14px;
+    color: #566067;
+    margin-bottom: 20px;
+}
 
 .global-interna {
     width: 100%;
+}
+
+.solution {
+    padding: 80px 0;
+}
+.solution h1 {
+    font-size: 40px;
+    font-family: 'Circe Bold';
+    color: #E61A4B;
+    margin: 0 0 40px;
+}
+.solution h1:after {
+    content: "";
+    width: 57px;
+    height: 6px;
+    display: block;
+    background: #E61A4B;
+    border-radius: 5px;
+}
+.solution p {
+    font-size: 16px;
+    color: #566067;
+    margin-bottom: 20px;
+}
+
+.depo {
+    padding: 80px 0;
+    background: #F2F0F1;
+}
+.depo .conteudo {
+    background: #fff;
+    padding: 70px 30px 30px;
+    border-radius: 20px;
+    -webkit-box-shadow: 0 3px 5px 1px rgba(138,138,138,.6);
+    -moz-box-shadow: 0 3px 5px 1px rgba(138,138,138,.6);
+    box-shadow: 0 3px 5px 1px rgba(138,138,138,.6);
+}
+.depo img {
+    width: 110px!important;
+    display: block;
+    margin: 0 auto -55px;
+}
+.depo p {
+    font-size: 14px;
+    color: #566067;
+    text-align: center;
+}
+.depo h4 {
+    font-size: 18px;
+    color: #E61A4B;
+    text-align: center;
+    margin: 20px 0 0;
+}
+.depo .owl-carousel .owl-stage-outer {
+    padding: 20px 0;
+}
+
+.contato-interno {
+    background: #0F0C1D;
+    padding: 50px 0;
+}
+.contato-interno h1 {
+    font-size: 50px;
+    font-family: 'Circe Bold';
+    color: #fff;
+    text-align: center;
+    margin: 0 0 20px;
+}
+.contato-interno p {
+    font-size: 18px;
+    font-family: 'Circe Light';
+    color: #0F0C1D;
+    text-align: center;
+    margin: 0 0 30px;
+}
+.contato-interno input {
+    font-size: 18px;
+    height: 60px;
+    border-radius: 50px;
+    border: none;
+    margin-bottom: 30px;
+    padding-left: 25px;
+}
+.contato-interno textarea {
+    font-size: 18px;
+    border-radius: 20px;
+    border: none;
+    margin-bottom: 30px;
+    padding-top: 15px;
+    padding-left: 25px;
+}
+.contato-interno button {
+    font-size: 25px;
+    color: #fff;
+    background: #E61A4B;
+    padding: 0 60px;
+    border: none;
+    height: 60px;
+    border-radius: 50px;
+    float: right;
+}
+.contato-interno button:hover {
+    background: #B4B5B7;
+}
+
+.nossa-historia iframe {
+    margin-bottom: 30px;
+}
+.nossa-historia p {
+    font-size: 16px!important;
+    color: #566067!important;
+    margin-bottom: 20px;
+}
+
+.modal-team .modal-dialog {
+    width: 1000px;
+    margin: 0;
+}
+.modal-team .modal-body {
+    padding: 0;
+}
+.modal-team img {
+    float: right;
+    width: 50%;
+    height: 600px;
+    object-fit: cover;
+    margin-top: -20px;
+    border-radius: 0 20px 20px 0;
+}
+.modal .close {
+    color: #E61A4B;
+    margin-left: 20px;
+    float: left;
 }
 
 /* --- MOBILE --- */
@@ -1494,6 +1639,46 @@ footer span {
     }
     .tipos h4 {
         text-align: center;
+    }
+    .vitrine-interna img {
+        height: 450px;
+    }
+    .vitrine-interna h1 {
+        font-size: 20px;
+    }
+    .video-interno iframe {
+        margin-top: -100px;
+        height: 200px;
+    }
+    .video-interno h4 {
+        font-size: 20px;
+        margin: 0 0 50px;
+    }
+    .img-interna {
+        width: auto;
+        margin: 20px auto 10px;
+    }
+    .video-interno p {
+        font-size: 18px;
+    }
+    .destaque-interno p {
+        font-size: 18px;
+    }
+    .mapa-interno h4 {
+        font-size: 20px;
+    }
+    .global-interna {
+        height: 240px;
+        object-fit: cover;
+    }
+    .contato-interno h1 {
+        font-size: 30px;
+    }
+    .nossa-historia iframe {
+        height: 200px;
+    }
+    .nossa-historia h4 {
+        margin-bottom: 30px;
     }
 }
 @media (min-width: 768px) and (max-width: 991px) {

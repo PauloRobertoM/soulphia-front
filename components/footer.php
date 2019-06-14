@@ -53,6 +53,25 @@
         	</div>
         </div>
 
+        <!-- Modal -->
+        <div class="modal modal-team fade" id="myModalTeam" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+        	<div class="modal-dialog" role="document">
+        		<div class="modal-content">
+        			<div class="modal-body">
+        				<button type="button" class="close" data-dismiss="modal" aria-label="Close">X</button>
+        				<img src="assets/images/team.jpg" alt="">
+        				<div class="conteudo">
+        					<h2>Nome da pessoa</h2>
+        					<p><strong>What I do:</strong> Connect the dots across all areas of Educurious</p>
+							<p><strong>I’m #Soulphia because…</strong> It's never too late to learn</p>
+							<p><strong>Favorite part of school:</strong> Art and rocking the drill team after school</p>
+							<p><strong>Favorite book:</strong> Crime Thrillers a la John Grisham</p>
+        				</div><!-- conteudo -->
+        			</div>
+        		</div>
+        	</div>
+        </div>
+
         <script type='text/javascript' src='assets/js/jquery.js'></script>
         <script type='text/javascript' src='assets/js/bootstrap.min.js'></script>
         <script src="https://use.fontawesome.com/6963733f46.js"></script>
